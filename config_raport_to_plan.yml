@@ -1,0 +1,7 @@
+# полный путь из какого файла считываем Рапорт ЦПП:
+INPUT_FILE: C:/Users/user/PycharmProjects/Рапорт ЦПП в план BFG/План-график 105.xlsb
+#INPUT_FILE: C:/Users/user/Downloads/План-график 105.xlsb
+INPUT_FILE_SHEET: Участок _
+# полный путь куда кладём новый созданный файл:
+OUTPUT_FILE: C:/Users/user/PycharmProjects/Рапорт ЦПП в план BFG/План заказов dop-105.xlsx
+# OUTPUT_FILE_SHEET: Plan
